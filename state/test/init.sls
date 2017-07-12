@@ -5,4 +5,4 @@
     - user: root
     - group: root
     - mode: 644
-    - source: salt://test/files/test-{{ pkg_version  }}.txt
+    - source: salt://test/files/test-{{ pkg_version  }}/conf.txt
